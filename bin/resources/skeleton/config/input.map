@@ -70,8 +70,8 @@ CHARACTER_SIDESTEP_LEFT        Keyboard             A
 CHARACTER_SIDESTEP_RIGHT       Keyboard             D 
 
 ; COMMANDS
-COMMANDS_01                    Keyboard             EXPL+F1 
-COMMANDS_02                    Keyboard             EXPL+F2 
+COMMANDS_01                    Keyboard             1
+COMMANDS_02                    Keyboard             2 
 COMMANDS_03                    Keyboard             EXPL+F3 
 COMMANDS_04                    Keyboard             EXPL+F4 
 COMMANDS_05                    Keyboard             EXPL+F5 
