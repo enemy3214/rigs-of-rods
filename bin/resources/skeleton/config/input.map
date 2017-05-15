@@ -7,8 +7,7 @@ AIRPLANE_AIRBRAKES_NONE        Keyboard             CTRL+3
 AIRPLANE_BRAKE                 Keyboard             B 
 AIRPLANE_ELEVATOR_DOWN         Keyboard             DOWN 
 AIRPLANE_ELEVATOR_UP           Keyboard             UP 
-AIRPLANE_FLAPS_FULL            Keyboard             CTRL+2 
-AIRPLANE_FLAPS_LESS            Keyboard             EXPL+1 
+AIRPLANE_FLAPS_FULL            Keyboard             CTRL+2 AIRPLANE_FLAPS_LESS            Keyboard             EXPL+1 
 AIRPLANE_FLAPS_MORE            Keyboard             EXPL+2 
 AIRPLANE_FLAPS_NONE            Keyboard             CTRL+1 
 AIRPLANE_PARKING_BRAKE         Keyboard             P 
@@ -18,8 +17,7 @@ AIRPLANE_RUDDER_RIGHT          Keyboard             X
 AIRPLANE_STEER_LEFT            Keyboard             LEFT 
 AIRPLANE_STEER_RIGHT           Keyboard             RIGHT 
 AIRPLANE_THROTTLE_AXIS         None                 
-AIRPLANE_THROTTLE_DOWN         Keyboard             EXPL+PGDOWN 
-AIRPLANE_THROTTLE_FULL         Keyboard             CTRL+PGUP 
+AIRPLANE_THROTTLE_DOWN         Keyboard             EXPL+PGDOWN AIRPLANE_THROTTLE_FULL         Keyboard             CTRL+PGUP 
 AIRPLANE_THROTTLE_NO           Keyboard             CTRL+PGDOWN 
 AIRPLANE_THROTTLE_UP           Keyboard             EXPL+PGUP 
 AIRPLANE_TOGGLE_ENGINES        Keyboard             CTRL+HOME 
@@ -29,8 +27,7 @@ BOAT_CENTER_RUDDER             Keyboard             PGUP
 BOAT_REVERSE                   Keyboard             PGDOWN 
 BOAT_STEER_LEFT                Keyboard             LEFT 
 BOAT_STEER_RIGHT               Keyboard             RIGHT 
-BOAT_THROTTLE_AXIS             None                 
-BOAT_THROTTLE_UP               Keyboard             UP 
+BOAT_THROTTLE_AXIS             None                 BOAT_THROTTLE_UP               Keyboard             UP 
 BOAT_THROTTLE_DOWN             Keyboard             DOWN
 
 ; CAMERA
@@ -70,8 +67,8 @@ CHARACTER_SIDESTEP_LEFT        Keyboard             A
 CHARACTER_SIDESTEP_RIGHT       Keyboard             D 
 
 ; COMMANDS
-COMMANDS_01                    Keyboard             EXPL+F1 
-COMMANDS_02                    Keyboard             EXPL+F2 
+COMMANDS_01                    Keyboard             1 
+COMMANDS_02                    Keyboard            2
 COMMANDS_03                    Keyboard             EXPL+F3 
 COMMANDS_04                    Keyboard             EXPL+F4 
 COMMANDS_05                    Keyboard             EXPL+F5 
